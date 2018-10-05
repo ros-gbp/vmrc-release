@@ -2,6 +2,9 @@
 Changelog for package wamv_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.1 (2018-10-05)
+------------------
+
 0.3.0 (2018-09-28)
 ------------------
 * vmrc metapackage and spring cleaning.
