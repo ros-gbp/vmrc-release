@@ -2,6 +2,11 @@
 Changelog for package vmrc_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2018-10-08)
+------------------
+* Include jrivero as maintainer of the ROS packages
+* Contributors: Jose Luis Rivero <jrivero@osrfoundation.org>
+
 0.3.1 (2018-10-05)
 ------------------
 
