@@ -1,0 +1,22 @@
+ros-kinetic-vmrc-gazebo (0.3.2-0xenial) xenial; urgency=high
+
+  * Include jrivero as maintainer of the ROS packages
+  * Contributors: Jose Luis Rivero <mailto:jrivero@osrfoundation.org>
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Sun, 07 Oct 2018 22:00:00 -0000
+
+ros-kinetic-vmrc-gazebo (0.3.1-0xenial) xenial; urgency=high
+
+
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Thu, 04 Oct 2018 22:00:00 -0000
+
+ros-kinetic-vmrc-gazebo (0.3.0-0xenial) xenial; urgency=high
+
+  * Tweak
+  * Rename robotx_gazebo to vmrc_gazebo and remove metapackage.
+  * Contributors: Carlos Agüero <mailto:caguero@osrfoundation.org>
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Thu, 27 Sep 2018 22:00:00 -0000
+
+
